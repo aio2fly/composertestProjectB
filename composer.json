@@ -1,6 +1,6 @@
 {
     "name": "aiotest/projectB",
     "require": {
-        "aiotest/projectC": "1.0.*"
+        "aiotest/projectC": "dev-master"
     }
 }
